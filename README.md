@@ -133,8 +133,4 @@ A comunicação foi validada utilizando **ping entre hosts de diferentes switche
 
 
 
-## 👨‍💻 Projeto acadêmico
-
-**Atividade 4 — Simulação de Ambiente Hierárquico de Rede Local**
-
 Desenvolvido para a disciplina de **Comutação de Redes Locais**.
