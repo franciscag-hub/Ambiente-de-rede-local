@@ -133,4 +133,4 @@ A comunicação foi validada utilizando **ping entre hosts de diferentes switche
 
 
 
-Desenvolvido para a disciplina de **Comutação de Redes Locais**.
+.
