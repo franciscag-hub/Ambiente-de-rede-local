@@ -4,7 +4,8 @@
 
 **Curso:** Tecnologia em Redes de Computadores
 **Disciplina:** Comutação de Redes Locais
-**Ferramenta:** Cisco Packet Tracer 8.2.2
+**Ferramenta:** Cisco Packet Tracer 
+**Aluna:** Francisca Gabriella Silva da Conceição
 
 ---
 
@@ -87,21 +88,17 @@ Todos utilizando **Copper Straight-Through**.
 
 A atividade foi realizada principalmente na parte física da rede.
 
-Não foram aplicadas configurações de:
-
-* VLAN
-* Roteamento
-* EtherChannel
-
 As interfaces conectadas foram habilitadas utilizando `no shutdown`.
-<img width="643" height="664" alt="image" src="https://github.com/user-attachments/assets/e0e38c29-bd8b-4d96-8ac8-0c1f25f8a96c" />
+<img width="679" height="711" alt="image" src="https://github.com/user-attachments/assets/cab502ab-15db-4e7a-8f5c-d15a91bba3e8" />
+
 
 
 Também foram inseridos os módulos de fibra **GLC-LH-SMD** nos equipamentos correspondentes.
 
 ###  Salvamento da configuração
 
-<img width="1362" height="722" alt="image" src="https://github.com/user-attachments/assets/a1ff3d44-bae8-47c5-8b7d-6ece8a49925e" />
+<img width="679" height="718" alt="image" src="https://github.com/user-attachments/assets/7025d1cf-fbc0-4b76-ba03-f2a3fdf4ffba" />
+
 
 
 
@@ -123,6 +120,28 @@ Também foram inseridos os módulos de fibra **GLC-LH-SMD** nos equipamentos cor
 | Server0     | 192.168.0.9 | 255.255.255.0 |
 
 A comunicação foi validada utilizando **ping entre hosts de diferentes switches de acesso**.
+<img width="697" height="708" alt="image" src="https://github.com/user-attachments/assets/55d40e52-8fb3-40c6-8068-b2f229c55e67" />
+<img width="691" height="705" alt="image" src="https://github.com/user-attachments/assets/82ef3ea8-56c4-4d84-bdb3-f4334264cf58" />
+<img width="695" height="702" alt="image" src="https://github.com/user-attachments/assets/daecd4f2-a1d3-48fe-b692-bf1525119af6" />
+<img width="699" height="702" alt="image" src="https://github.com/user-attachments/assets/a0751149-8b46-4bc7-898d-d2ac8f995e89" />
+<img width="697" height="706" alt="image" src="https://github.com/user-attachments/assets/ad513445-06fd-42a1-ad39-e3fcb57b27b5" />
+<img width="696" height="708" alt="image" src="https://github.com/user-attachments/assets/14ab2f51-c20c-4a73-bfba-098b13ad102d" />
+<img width="700" height="700" alt="image" src="https://github.com/user-attachments/assets/24864e54-d7d1-4ee7-a968-871b1f51678e" />
+<img width="696" height="705" alt="image" src="https://github.com/user-attachments/assets/14e8e2dd-5deb-4187-b916-44be16f179ed" />
+<img width="699" height="701" alt="image" src="https://github.com/user-attachments/assets/37f64aab-6876-4909-be6f-aff9c7a2d8c6" />
+
+
+
+
+
+
+
+Teste de Conectividade
+
+Após a configuração dos endereços IP nos dispositivos finais, foi realizado 
+um teste de conectividade fim a fim utilizando o comando `ping`, validando 
+a comunicação entre hosts conectados a switches de acesso diferentes, 
+passando por toda a estrutura hierárquica.
 
 <img width="693" height="706" alt="image" src="https://github.com/user-attachments/assets/f1190dac-6ce4-48a2-9065-1dfc285bd3b7" />
 <img width="692" height="706" alt="image" src="https://github.com/user-attachments/assets/41690dac-2cef-4ec6-b5ea-11bc99973f68" />
