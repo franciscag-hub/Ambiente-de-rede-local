@@ -109,10 +109,9 @@ Também foram inseridos os módulos de fibra **GLC-LH-SMD** nos equipamentos cor
 
 ##  Endereçamento IP — Configuração Extra
 
-Para testar a comunicação entre os dispositivos, foi utilizada a rede **192.168.1.0/24**.
 
-| Dispositivo | Endereço IP  | Máscara       |
-| ----------- | ------------ | ------------- |
+| Dispositivo | Endereço IP  | Máscara      |
+| ----------- | ------------ | -------------|
 | PC0         | 192.168.0.1 | 255.255.255.0 |
 | Laptop0     | 192.168.0.2 | 255.255.255.0 |
 | PC1         | 192.168.0.3 | 255.255.255.0 |
