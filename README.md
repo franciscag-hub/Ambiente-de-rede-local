@@ -30,7 +30,7 @@ A atividade foi desenvolvida no **Cisco Packet Tracer 8.2.2**.
 | Distribuição     |          2 | Multilayer Switch 3650-24PS | DIST0, DIST1    |
 | Acesso           |          4 | Switch 2960-24TT            | acesso0–acesso3 |
 | Desktops         |          4 | PC-PT                       | PC0–PC3         |
-| Laptop           |          4 | Laptop-PT                   | Laptop0–Laptop3 |
+| Notebook         |          4 | Laptop-PT                   | Laptop0–Laptop3 |
 | Servidor         |          1 | Server-PT                   | Server0         |
 
 ---
